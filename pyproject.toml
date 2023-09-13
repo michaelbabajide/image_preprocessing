@@ -9,7 +9,7 @@ version = "0.0.1"
 authors = [
   { name="Boluwatife Babajide", email="babajidemichael67@gmail.com" },
 ]
-description = "A small function that preprocesses images for machine learning models"
+description = "A function that preprocesses images for machine learning models"
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
